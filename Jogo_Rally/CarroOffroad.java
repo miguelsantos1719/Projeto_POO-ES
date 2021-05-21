@@ -1,17 +1,17 @@
 package Jogo_Rally;
 
-public class CarroOffroad {
+public class CarroOffroad extends Carro {
 	//1.ATRIBUTOS
 	
 	//2.ACESSORES
 	
 	//3.CONSTRUTOR - default
 	
-	//4.CONSTRUTOR - com parâmetros
+	//4.CONSTRUTOR - com parÃ¢metros
 	
-	//5.CONSTRUTOR - Cópia
+	//5.CONSTRUTOR - CÃ³pia
 	
 	//6.COMPORTAMENTOS
 	
-	//7.MÉTODOS COMPLEMENTARES
+	//7.MÃ‰TODOS COMPLEMENTARES
 }
